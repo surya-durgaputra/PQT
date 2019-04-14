@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/helios/anaconda3/envs/pyqt4_env/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false
+}
