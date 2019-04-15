@@ -40,7 +40,7 @@ class Window(QtGui.QMainWindow):
 
         # build the main menu here
         mainMenu = self.menuBar()
-
+        # add the submenus and submenu actions
         fileMenu = mainMenu.addMenu('&File')
         fileMenu.addAction(extractAction)
         fileMenu.addAction(openFile)
